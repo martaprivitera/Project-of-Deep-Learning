@@ -30,3 +30,5 @@ Pre-trained models: Architectures like MobileNet, VGG, and ResNet using transfer
 
 The file FinalModels.ipynb contains the most performant models in terms of both loss and accuracy.
 
+### This project was created in collaboration with Eleonora Brambatti and Francesco Angiulli, fellow students at the University of Milano-Bicocca.
+
